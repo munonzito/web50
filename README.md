@@ -6,6 +6,6 @@ Web Programming with Python and JavaScript
 
 Sample Web Programming Course
 
-#Other Pages
+# Other Pages
 
 The other pages (about-python, about-html, about-css) show information about each programming tool.
